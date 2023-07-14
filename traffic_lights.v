@@ -61,3 +61,5 @@ module traffic_lights(clk,reset,light_1,light_2);
         endcase
     end
 endmodule
+
+// end
